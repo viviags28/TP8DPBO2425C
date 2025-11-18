@@ -1,9 +1,7 @@
 # Janji
 Saya Vivi Agustina Suryana dengan NIM 2400456 mengerjakan Tugas Praktikum 8 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek Untuk keberkahan-Nya, maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan.
 
-# TP MVC 25 - Sistem Manajemen Dosen dan Department
-
-## Deskripsi Program
+# Deskripsi Program
 Aplikasi web untuk mengelola data dosen dan department menggunakan arsitektur Model-View-Controller (MVC). Aplikasi ini menyediakan fungsi CRUD (Create, Read, Update, Delete) untuk kedua entitas tersebut.
 
 ## Desain Program
@@ -39,7 +37,7 @@ tp_mvc25/
 └── index.php        # Router utama
 ```
 
-## 🔄 Alur Kerja
+## Alur Kerja
 
 ### 1. Routing
 - Router utama (index.php) menerima request
@@ -85,10 +83,14 @@ Database terdiri dari dua tabel utama:
 ## Dokumentasi
 
 ### Tampilan Awal Department
-[Halaman utama menampilkan daftar department yang tersedia]
+
+<img width="1366" height="768" alt="1  Tampilan Departement" src="https://github.com/user-attachments/assets/42249619-b630-47f2-8c4d-d516388aea6a" />
+
 
 ### Tampilan Awal Dosen  
-[Halaman utama menampilkan daftar dosen yang tersedia]
+
+<img width="1366" height="768" alt="2  Tampilan Dosen" src="https://github.com/user-attachments/assets/a5df9464-95e5-41b3-ba1d-cd4963cbb68d" />
+
 
 ### Full Test CRUD
 [Documentation untuk testing semua fungsi CRUD]
