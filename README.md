@@ -27,8 +27,8 @@ Aplikasi web untuk mengelola data dosen dan department menggunakan arsitektur Mo
 ## Struktur Folder
 ```
 tp_mvc25/
-├── config/           # Konfigurasi aplikasi
-├── models/           # Model data (DB, Department, Lecturer)
+├── config/          # Konfigurasi aplikasi
+├── models/          # Model data (DB, Department, Lecturer)
 ├── views/           # Template dan tampilan
 │   ├── templates/   # Layout umum (header, footer)
 │   ├── departments/ # Tampilan untuk department
